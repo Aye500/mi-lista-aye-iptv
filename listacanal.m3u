@@ -3,6 +3,11 @@
 #EXTINF:-1, Canal 2 America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-name="América" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-chno="36.1" tvg-country="AR" group-title="Argentina",América
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
+
 #EXTINF:-1, Canal 13 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -36,8 +41,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" tvg-chno="34.1" tvg-country="AR" group-title="Argentina",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="América" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-chno="36.1" tvg-country="AR" group-title="Argentina",América
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="5tv.ar@SD",5tv
