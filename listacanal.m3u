@@ -232,27 +232,18 @@ http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional",El Gourmet (1080p)
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD",El Nueve (1080p)
-http://15.204.246.24:8080/elnueveHD/index.m3u8
-#EXTINF:-1 tvg-id="ElSiete.ar@SD",El Siete (1080p)
-https://edgectc.com/CANAL7_MZA/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (480p)
 http://190.108.83.69:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="FilmArts.ar@Panregional",Film & Arts (1080p)
-http://15.204.246.24:8080/FilmArtsHD/index.m3u8
+
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar@SD",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar@SD",IP Noticias (720p)
-https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
+
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar@SD",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KpopMix.ar@SD",Kpop Mix (720p)
@@ -267,6 +258,7 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar@SD",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 #EXTINF:-1 tvg-id="MisionesCuatro.ar@SD",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar@SD",MusicTop (1080p)
