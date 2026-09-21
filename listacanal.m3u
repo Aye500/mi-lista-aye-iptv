@@ -136,13 +136,13 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="CanalOrbe21.ar@SD",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalProvincial.ar@SD",Canal Provincial (360p)
+#EXTINF:-1 tvg-id="CanalProvincial.ar@SD",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD",Canal Santa María (360p)
+#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD",Canal Santa María
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalShowsport.ar@SD",Canal Showsport (720p)
+#EXTINF:-1 tvg-id="CanalShowsport.ar@SD",Canal Showsport
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
@@ -154,7 +154,6 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 http://190.61.90.17:40000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-id="ChacoTV.ar@SD",Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar@SD",Chacra TV
@@ -180,6 +179,11 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712703.ts
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712704.ts
 #EXTINF:-1, Canal 13 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
+#EXTVLCOPT:http-referrer=https://vodgc.net
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (480p)
+http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar@SD",Canal 7 Salta (720p)
@@ -300,11 +304,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (480p)
-http://190.108.83.69:8000/play/a01d/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
