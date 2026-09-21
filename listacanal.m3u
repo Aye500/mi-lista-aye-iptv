@@ -12,29 +12,32 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim Latin America
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America
+http://
+
+
 # --- PROVINCIALES ---
 
 #EXTM3U
-#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5tv
+#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias Neuquen
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 tvg-id="ABTVBariloche.ar@SD" tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="General",ABTV Bariloche
 https://
 
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim Latin America
-http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
-
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV
+#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV Miramar
 https://
 
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America
-http://
+
 
 
 # --- MÁS EXTRAS ---
