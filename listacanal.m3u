@@ -602,25 +602,6 @@ https://
 
 # --- NOTICIAS ---
 
-#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Todo Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="Noticias",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="Noticias",C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="Noticias",Crónica TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Noticias",LN+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -650,22 +631,10 @@ https://
 
 # --- CANALES DE AIRE / GENERALES ---
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="General",Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="General",El Nueve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="General",TV Pública
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="General",Net TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -673,25 +642,6 @@ https://
 
 # --- NOTICIAS ---
 
-#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Todo Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="Noticias",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="Noticias",C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="Noticias",Crónica TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Noticias",LN+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
