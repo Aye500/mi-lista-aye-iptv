@@ -9,54 +9,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal 70 Solidaria TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1, 24/7
-https://live.mediakit.com.ar/live/247noticias/playlist.m3u8
-
-#EXTINF:-1, Aliento Vision
-https://stream.alientovision.com/live/alientovision/playlist.m3u8
-
-#EXTINF:-1, Argentinisima
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima/playlist.m3u8
-
-#EXTINF:-1, Bayres Tv
-https://servidor13.brlogic.com:8400/live/bayres/playlist.m3u8
-
-#EXTINF:-1, BVC Online
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-1, Canal de la Ciudad
-https://cdn.buenosaires.gob.ar/canaldelaciudad/live/playlist.m3u8
-
-#EXTINF:-1, Canal Luz
-https://server1.streaminghd.com.ar:1936/canalluz/canalluz/playlist.m3u8
-
-#EXTINF:-1, Cine.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5a32943328e19.streamlock.net/cinear/live/playlist.m3u8
-
-#EXTINF:-1, CN23
-https://server1.streaminghd.com.ar:1936/cn23/cn23/playlist.m3u8
-
-#EXTINF:-1, Construir TV
-https://5fb24b460df87.streamlock.net/live-cont.ar/construirtv/playlist.m3u8
-
-#EXTINF:-1, DeporTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1, Encuentro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://encuentro-live.cdn.cx/hls/live/encuentro.m3u8
-
-#EXTINF:-1, EWTN
-http://177.234.249.135:8888/EWTN/index.m3u8
-
-#EXTINF:-1, HNK
-https://stream.hnktv.com.ar/live/stream/playlist.m3u8
-
-#EXTINF:-1, IP Noticias
-https://unlimited3-us.streamakame.com/ipnoticias/live/playlist.m3u8
-
 #EXTINF:-1, Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
