@@ -111,20 +111,6 @@ https://
 
 
 
-
-
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD",Canal 9 Resistencia (720p)
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal10MardelPlata.ar@SD",Canal 10 Mar del Plata
-https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD",Canal 13 Jujuy TV (720p)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-
-
 # --- MÁS EXTRAS ---
 
 #EXTM3U
