@@ -154,6 +154,12 @@ https://
 https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 #EXTINF:-1 tvg-id="Cadena103TV.ar" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Undefined",Cadena103.TV
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQa0k2OE_G_hWAH7Nx7qORMLV0S2YGQ7p85jrDfC7nNGUJ50INomppJw&s=10" group-title="Argentina",Canal 7 Jujuy
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712728.ts
 #EXTINF:-1 tvg-id="Canal2deUshuaia.ar" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="General",Canal 2 de Ushuaia
 https://
 #EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-logo="https://i.imgur.com/TOlncyp.png" group-title="General",Canal 2 Gualeguay
@@ -168,6 +174,8 @@ https://edge.enhdtv.com/nexthd/index.m3u8
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Undefined",Canal 3 La Pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712723.ts
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Undefined",Canal 3 Las Heras
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Undefined",Canal 3 Pinamar
@@ -627,14 +635,7 @@ TV ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712700.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQa0k2OE_G_hWAH7Nx7qORMLV0S2YGQ7p85jrDfC7nNGUJ50INomppJw&s=10" group-title="Argentina",Canal 7 Jujuy
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712728.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712730.ts
 #EXTINF:-1 tvg-id="" tvg-name="5RTV Santa Fe" tvg-logo="https://i.ibb.co/W6xkB9w/santafe.png" group-title="Argentina",5RTV Santa Fe
