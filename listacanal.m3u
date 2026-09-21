@@ -8,11 +8,11 @@ https://edge2.fastiptv.net:8080/live/tvp/index.m3u8
 
 #EXTINF:-1, Canal 9 El Nueve
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live.canalnueve.tv/canal.m3u8
+https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1, Canal 11 Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+https://live-01-02-telefe.vodgc.net/telefe/index.m3u8
 
 #EXTINF:-1, Canal 13 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
