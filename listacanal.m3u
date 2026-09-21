@@ -2,6 +2,39 @@
 
 # --- GENERALES ---
 
+
+
+
+
+# --- GENERALES ---
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="IP Noticias" tvg-logo="https://i.imgur.com/atGKPhi.png" group-title="Noticias",IP Noticias
+https://
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="Cultura",Encuentro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="Cine",Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Deportes",DeporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://
+
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="Cultura",Tec TV
+https://
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="Solidaria TV" tvg-logo="https://radiosolidaria.vercel.app/_next/image?url=%2Fimages%2Flogo%2Ftv%2Flogo-tv-notext.webp&w=384&q=75" group-title="General",Solidaria TV
@@ -569,25 +602,6 @@ https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTM3U
 
-# --- GENERALES ---
-
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-# --- NOTICIAS ---
-
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-#EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="IP Noticias" tvg-logo="https://i.imgur.com/atGKPhi.png" group-title="Noticias",IP Noticias
-https://
-
-# --- VARIEDADES Y MÚSICA ---
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 
 
@@ -621,26 +635,6 @@ https://
 #EXTINF:-1 tvg-id="ElDestape.ar" tvg-name="El Destape" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Noticias",El Destape
 https://
 
-# --- ENTRETENIMIENTO / TDA / CULTURA ---
-
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="Cultura",Encuentro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="Cine",Cine.AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Deportes",DeporTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-
-#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="Cultura",Tec TV
-https://
-
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 
 
