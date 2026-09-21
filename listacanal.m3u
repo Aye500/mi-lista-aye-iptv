@@ -317,6 +317,29 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@SD",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 
+### --- INTERNACIONAL --- ###
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13773.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13774.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13775.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13776.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13779.ts
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13780.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13781.ts
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN FHD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13782.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional
 
 #####
 
@@ -610,9 +633,6 @@ https://
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="Infantil",Pakapaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="Cine",Cine.AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -772,24 +792,3 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712736.ts
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712739.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13773.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13774.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13775.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13776.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13779.ts
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13780.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13781.ts
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13782.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional
