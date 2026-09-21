@@ -21,6 +21,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712724.ts
+
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
@@ -634,12 +637,16 @@ https://
 
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="News",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+
 #EXTINF:-1 tvg-id="CanalUniversidad.ar@SD" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="Education",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+
 #EXTINF:-1 tvg-id="CarasTV.ar@SD" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="Entertainment",Caras TV (1080p)
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Culture;News",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
 #EXTINF:-1 tvg-id="CeltaTV.ar@SD" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Undefined",Celta TV (240p)
 https://
 
@@ -679,10 +686,6 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712700.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 | AR
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 FHD" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26 FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712725.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712726.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQa0k2OE_G_hWAH7Nx7qORMLV0S2YGQ7p85jrDfC7nNGUJ50INomppJw&s=10" group-title="Argentina",Canal 7 Jujuy
