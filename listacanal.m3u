@@ -663,3 +663,85 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogo.png" group-title="Música",MTV Biggest Pop (Pluto TV)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&embedPartner=samsung-tvplus
 
+
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
+
+# --- CANALES DE AIRE / GENERALES ---
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="General",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://unlimited1-us.dps.live/telefe/telefe.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="General",El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://unlimited2-us.dps.live/elnueve/elnueve.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="General",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="General",TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cntlnk-main-edge-access.secure.footprint.net/a16/ngrp:tvp_web-100056_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="General",Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+# --- NOTICIAS ---
+
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Todo Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="Noticias",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-a24.vodgc.net/a24/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="Noticias",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://c5n-live.cdn.cx/hls/live/c5n.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="Noticias",Crónica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-cronicatv.vodgc.net/cronicatv/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Noticias",LN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-lanacion.vodgc.net/lanaciontv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="IP Noticias" tvg-logo="https://i.imgur.com/atGKPhi.png" group-title="Noticias",IP Noticias
+https://unlimited3-us.streamakame.com/ipnoticias/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElDestape.ar" tvg-name="El Destape" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Noticias",El Destape
+https://unlimited3-us.streamakame.com/eldestapetv/live/playlist.m3u8
+
+# --- ENTRETENIMIENTO / TDA / CULTURA ---
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="Cultura",Encuentro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://encuentro-live.cdn.cx/hls/live/encuentro.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="Infantil",Pakapaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5a32943328e19.streamlock.net/pakapaka/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" group-title="Cine",Cine.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5a32943328e19.streamlock.net/cinear/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Deportes",DeporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="Cultura",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
