@@ -597,3 +597,69 @@ https://canal11saltatv.unpocodeawita.workers.dev/
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="NorteTV.ar@SD",Norte TV (720p) [Not 24/7]
 https://ntvcanal7.com.ar:81/dash/stream.mpd
+
+
+#EXTM3U
+
+# --- GENERALES ---
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="General",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://unlimited1-us.dps.live/telefe/telefe.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="General",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" group-title="General",El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://unlimited2-us.dps.live/elnueve/elnueve.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="General",TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cntlnk-main-edge-access.secure.footprint.net/a16/ngrp:tvp_web-100056_all/playlist.m3u8
+
+# --- NOTICIAS ---
+
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Todo Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" group-title="Noticias",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-a24.vodgc.net/a24/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="Noticias",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://c5n-live.cdn.cx/hls/live/c5n.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" group-title="Noticias",Crónica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-cronicatv.vodgc.net/cronicatv/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Noticias",LN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-01-02-lanacion.vodgc.net/lanaciontv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/5pAaVih.png" group-title="Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Argentina12.ar" tvg-name="IP Noticias" tvg-logo="https://i.imgur.com/atGKPhi.png" group-title="Noticias",IP Noticias
+https://unlimited3-us.streamakame.com/ipnoticias/live/playlist.m3u8
+
+# --- VARIEDADES Y MÚSICA ---
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="Variedades",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="Variedades",El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Variedades",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogo.png" group-title="Música",MTV Biggest Pop (Pluto TV)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&embedPartner=samsung-tvplus
+
