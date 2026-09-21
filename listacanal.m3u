@@ -50,6 +50,12 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712721.ts
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Argentina",Telemax
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712740.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
+
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim Latin America
 http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 
@@ -805,10 +811,7 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712736.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="RTN Neuquén" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online.png" group-title="Argentina",RTN Neuquén
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Argentina",Telemax
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712740.ts
-#EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13773.ts
