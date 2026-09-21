@@ -177,6 +177,10 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712703.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina",America TV FHD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712704.ts
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (576p)
+http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1, Canal 13 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
@@ -375,11 +379,7 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD",Telefe Buenos Aires (1080p)
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (576p)
-http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
