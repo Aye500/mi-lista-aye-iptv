@@ -4,7 +4,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-
+#EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="Solidaria TV",TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
 
@@ -13,8 +14,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1, Canal 13 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, Canal 70 Solidaria TV
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+
 
 #EXTINF:-1, Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -326,8 +327,7 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
-#EXTINF:-1 tvg-id="TVSolidaria.ar@SD",TV Solidaria (576p)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
 #EXTINF:-1 tvg-id="TVUniversidad.ar@SD",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
