@@ -421,7 +421,7 @@ https://srs.unsj.edu.ar/live/xama/xama.flv
 
 # --- DEPORTES ---
 
-#EXTINF:-1 tvg-id="" tvg-name="Deportv | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/1000?cb=20210101172130&path-prefix=es" group-title="Argentina",Deportv | AR FHD
+#EXTINF:-1 tvg-id="" tvg-name="Deportv | AR FHD" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Argentina",Deportv | AR FHD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712742.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="Argentina",ESPN FHD | AR
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712743.ts
@@ -676,9 +676,6 @@ https://
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Deportes",DeporTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
 
 #EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" group-title="Cultura",Tec TV
 https://
@@ -703,5 +700,3 @@ https://
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Variedades",Canal Rural
 https://
-
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
