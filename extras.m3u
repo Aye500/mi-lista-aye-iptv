@@ -35,6 +35,16 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 
 
+#EXTINF:-1 tvg-id="CarasTV.ar@SD",Caras TV
+http://190.61.90.17:40000/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="NGFederal.ar@SD",NG Federal
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+
 
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -51,8 +61,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar@SD",Canal 7 Salta (720p)
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
 
 
 ######
