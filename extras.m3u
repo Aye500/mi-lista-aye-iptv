@@ -37,6 +37,12 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
+#EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
