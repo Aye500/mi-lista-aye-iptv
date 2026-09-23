@@ -423,23 +423,9 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="XamaTV.ar@SD",Xama TV
 https://srs.unsj.edu.ar/live/xama/xama.flv
 
-COLOMBIA TV
-#EXTINF:-1 tvg-id="633dtv.co" tvg-name="Win Sports SD" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports SD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13766.ts
-#EXTINF:-1 tvg-id="Win Sports.co" tvg-name="Win Sports HD" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + SD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + SD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13768.ts
-#EXTINF:-1 tvg-id="Win Sports+.co" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13769.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports + HD" tvg-logo="https://i.postimg.cc/LXncPqFj/Dise-o-sin-t-tulo-5.png" group-title="COLOMBIA",Win Sports + HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13772.ts
 #EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 
