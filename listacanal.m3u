@@ -425,7 +425,7 @@ https://srs.unsj.edu.ar/live/xama/xama.flv
 
 
 
-# --- DEPORTES ---
+# --- DEPORTES ARGENTINA ---
 
 #EXTINF:-1 tvg-id="" tvg-name="Deportv | AR FHD" tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="Argentina",Deportv | AR FHD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712742.ts
@@ -445,8 +445,6 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712748.ts
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712749.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3  | AR FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest?cb=20230207140224&path-prefix=es" group-title="Argentina",Fox Sports 3  | AR FHD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Argentina",Garage TV
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712751.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712752.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina",TNT Sports Premium HD
@@ -463,6 +461,13 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712757.ts
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/722195.ts
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina",TYC SPORTS INTERNACIONAL
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/722820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Argentina",Garage TV
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712751.ts
+
+
+
+
+
 COLOMBIA TV
 #EXTINF:-1 tvg-id="633dtv.co" tvg-name="Win Sports SD" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" group-title="COLOMBIA",Win Sports SD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13766.ts
