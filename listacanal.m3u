@@ -423,16 +423,11 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="XamaTV.ar@SD",Xama TV
 https://srs.unsj.edu.ar/live/xama/xama.flv
 
-#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 
 # --- DIBUJOS ---
 
-#EXTINF:-1 tvg-id="" tvg-name="Paka Paka HD" tvg-logo="https://i.postimg.cc/WbHjtTzQ/Paka-Paka-2025.png" group-title="Argentina",Paka Paka HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712737.ts
+
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -466,7 +461,6 @@ http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-
 
 
 #EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
@@ -508,8 +502,7 @@ https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar@SD",Canal 8 Mar del Plata (720p) [Not 24/7]
 https://canal8mdq.unpocodeawita.workers.dev/
 
-#EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="El Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="Variedades",El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina",13 Max HD
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712730.ts
@@ -616,50 +609,15 @@ http://190.60.52.28:5001/play/a0ba/index.m3u8
 http://190.60.52.28:5001/play/a0d5/index.m3u8
 
 
-#EXTINF:0 group-title="Deportes",ESPN
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s7
 
-#EXTINF:0 group-title="Deportes",ESPN 2 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qj
 
-#EXTINF:0 group-title="Deportes",ESPN 3 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s6
-
-#EXTINF:0 group-title="Deportes",ESPN 4 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s9
-
-#EXTINF:0 group-title="Deportes",ESPN 5 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s5
-
-#EXTINF:0 group-title="Deportes",ESPN 6 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s3
-
-#EXTINF:0 group-title="Deportes",ESPN 7 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s8
 
 #EXTINF:0 group-title="Religión",Enlace
 #EXTGRP:Religión
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pj
 
-#EXTINF:0 group-title="Deportes",Espn Premium
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0r2
+
 
 #EXTINF:0 group-title="Películas",HBO Xtreme HD
 #EXTGRP:Películas
