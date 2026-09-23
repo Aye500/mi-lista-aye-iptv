@@ -44,6 +44,25 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
 
+######
+
+#EXTINF:-1 tvg-id="" tvg-name="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24 | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712701.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",CRONICA
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712706.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712708.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712710.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Nación + | AR" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación + | AR
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712712.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",TELEFE
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712714.ts
+#EXTINF:-1 tvg-id="" tvg-name="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
+http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712717.ts
+
+#####
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
 
