@@ -36,6 +36,17 @@ http://181.78.79.131:8000/play/a0r1
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qo
 
+#EXTINF:0 group-title="Chile",ViaX
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t4
+
+#EXTINF:0 group-title="Latinoamérica",Zona Latina
+#EXTGRP:Latinoamérica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0su
+
+
 #COL#
 
 #EXTINF:0 group-title="General",Canal del Congreso
