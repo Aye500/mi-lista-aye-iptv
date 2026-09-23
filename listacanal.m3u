@@ -144,6 +144,11 @@ http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0po
 
+#EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a06w/index.m3u8
+
 #EXTINF:0 group-title="General", Discovery ID
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
@@ -747,10 +752,7 @@ http://181.78.8.199:8000/play/a0am/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a06w/index.m3u8
+
 
 
 
@@ -793,17 +795,4 @@ http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-
-# === EUROPA E INTERNACIONAL ===
-#EXTINF:0 group-title="Europa",DW Español
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:0 group-title="Europa",Bloomberg Europe
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
 
