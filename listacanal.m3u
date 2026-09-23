@@ -139,16 +139,6 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0by/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Animal Planet
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0po
-
-#EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a06w/index.m3u8
-
 #EXTINF:0 group-title="General", Discovery ID
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
