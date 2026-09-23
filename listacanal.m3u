@@ -43,8 +43,6 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 
 
-
-
 ######
 
 # --- RELIGIONES ---
@@ -52,8 +50,9 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="Solidaria TV" tvg-logo="https://radiosolidaria.vercel.app/_next/image?url=%2Fimages%2Flogo%2Ftv%2Flogo-tv-notext.webp&w=384&q=75" group-title="General",Solidaria TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD",TV Maná Argentina (576p)
+#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD",TV Maná Argentina
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
 
 
 ######
@@ -88,6 +87,35 @@ http://181.78.79.131:8000/play/a0na
 http://181.78.79.131:8000/play/a0sk
 
 
+
+######
+
+# --- PELICULAS ---
+
+#EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel
+http://138.121.15.230:9002/SONY/index.m3u8
+
+#EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:0 group-title="Películas",Warner
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sz
+
+#EXTINF:0 group-title="Películas",Warner TV HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pz
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+
+#####
 
 
 
@@ -134,12 +162,7 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD",Cumbia Mix (720p)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel
-http://138.121.15.230:9002/SONY/index.m3u8
 
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD",Xtrema Accion
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
 
@@ -688,20 +711,7 @@ http://181.78.79.131:8000/play/a0t3
 
 
 
-#EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0mw
 
-#EXTINF:0 group-title="Películas",Warner
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sz
-
-#EXTINF:0 group-title="Películas",Warner TV HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pz
 
 #EXTINF:0 group-title="Chile",Zoom
 #EXTGRP:Chile
