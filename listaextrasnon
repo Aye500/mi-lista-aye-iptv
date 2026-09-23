@@ -4,3 +4,56 @@
 
 #EXTM3U
 
+#CHILE#
+
+#EXTINF:0 group-title="General",13 C
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pm
+
+#EXTINF:0 group-title="Chile",CHV
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r0
+
+#EXTINF:0 group-title="Chile",Canal 24 Horas
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qr
+
+#EXTINF:0 group-title="Chile",MEGA HD
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
+
+#EXTINF:0 group-title="Chile",Mega
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r1
+
+#COL#
+
+#EXTINF:0 group-title="General",Canal del Congreso
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0se
+
+#EXTINF:0 group-title="Colombia",TRO
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sh
+
+#MEX#
+#EXTINF:0 group-title="Noticias",CNN Español
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p3
+
+
+
+#PERU#
+#EXTINF:0 group-title="Latinoamérica",ATV
+#EXTGRP:Latinoamérica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sp
+
