@@ -714,61 +714,7 @@ http://190.60.52.28:5001/play/a0ba/index.m3u8
 #EXTGRP:-
 http://190.60.52.28:5001/play/a0d5/index.m3u8
 
-#EXTINF:-1 group-title="-",ESPN (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0d7/index.m3u8
 
-#EXTINF:-1 group-title="-",ESPN 2 (N1)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0f5/index.m3u8
-
-#EXTINF:-1 group-title="-",ESPN 2 (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0d6/index.m3u8
-
-#EXTINF:-1 group-title="-",ESPN 2 (N3)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0c6/index.m3u8
-
-#EXTINF:-1 group-title="-",ESPN 2 HD (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a09t/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a094/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4HD (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0as/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5HD (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0de/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6HD (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a095/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0dd/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7HD (N2)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD (N1)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a09d/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD (N)
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0fz/index.m3u8
 #EXTINF:0 group-title="Deportes",ESPN
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
