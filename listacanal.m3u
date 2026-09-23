@@ -744,41 +744,20 @@ http://181.78.79.131:8000/play/a0s3
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0s8
 
-
-#EXTINF:0 group-title="Religión",EWTN
-#EXTGRP:Religión
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0ph
-
 #EXTINF:0 group-title="Religión",Enlace
 #EXTGRP:Religión
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pj
+
 #EXTINF:0 group-title="Deportes",Espn Premium
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0r2
 
-
-#EXTINF:0 group-title="Películas",FX HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0q5
-
-
-
-
-
-#EXTINF:0 group-title="Películas",HBO
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qd
-
 #EXTINF:0 group-title="Películas",HBO Xtreme HD
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qy
-
 
 #EXTINF:0 group-title="Documentales",HGTV
 #EXTGRP:Documentales
@@ -795,24 +774,15 @@ http://181.78.79.131:8000/play/a0pw
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0st
 
-
 #EXTINF:0 group-title="General",ID
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sl
 
-#EXTINF:0 group-title="Deportes",L1 MAX
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0ql
-
-
 #EXTINF:0 group-title="Chile",La Red
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qq
-
-
 
 #EXTINF:0 group-title="Entretenimiento",Vida útil
 #EXTGRP:Entretenimiento
@@ -833,7 +803,6 @@ http://181.78.79.131:8000/play/a0pt
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qm
-
 
 #EXTINF:0 group-title="Latinoamérica",Panamericana TV
 #EXTGRP:Latinoamérica
@@ -860,11 +829,11 @@ http://181.78.79.131:8000/play/a0q2
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qz
 
-
 #EXTINF:0 group-title="Documentales",TLC
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t3
+
 #EXTINF:0 group-title="Películas",TNT Novelas HD
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
@@ -879,6 +848,7 @@ http://181.78.79.131:8000/play/a0q9
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t6
+
 #EXTINF:0 group-title="Entretenimiento",Tooncast
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
@@ -899,20 +869,10 @@ http://181.78.79.131:8000/play/a0sz
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
 
-
 #EXTINF:0 group-title="Chile",Zoom
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sg
-
-
-
-
-
-#EXTINF:11 group-title="Entretenimiento",AE
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0al/index.m3u8
 
 #EXTINF:0 group-title="Entretenimiento",AE
 #EXTGRP:Entretenimiento
@@ -959,7 +919,6 @@ http://181.78.8.199:8000/play/a0g9/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 
-
 #EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
@@ -975,15 +934,10 @@ http://181.78.8.199:8000/play/a0e4/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0d4/index.m3u8
 
-#EXTINF:0 group-title="Chile",CANAL 13 TRANS
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dj/index.m3u8
 #EXTINF:0 group-title="Chile",CANAL CAPITAL NACIONAL SIN TRANS
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0d3/index.m3u8
-
 
 #EXTINF:0 group-title="General",CANALES NACIONALES
 #EXTGRP:General
@@ -994,11 +948,6 @@ http://181.78.8.199:8000/play/a0cy/index.m3u8
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0b0/index.m3u8
-
-
-
-
-
 
 #EXTINF:0 group-title="Deportes",Televida AR
 #EXTGRP:Deportes
@@ -1018,26 +967,17 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:0 group-title="España",Canal Parlamento
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-
 # === EUROPA E INTERNACIONAL ===
 #EXTINF:0 group-title="Europa",DW Español
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:0 group-title="Europa",Das Erste (ARD)
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://mcdn.daserste.de/daserste/int/master.m3u8
-
 #EXTINF:0 group-title="Europa",Bloomberg Europe
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
 #EXTINF:0 group-title="Europa",BFM TV
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
@@ -1048,111 +988,30 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTVLCOPT:network-caching=1000
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-# === INFANTILES ===
-#EXTINF:0 group-title="Infantiles",Cartoon Network Latino
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:0 group-title="Infantiles",Pequeradio TV
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-# === DEPORTES (168.232.168.242) ===
-#EXTINF:0 group-title="Deportes",ESPN HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05e/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 2 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05q/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 3 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05g/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 4 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05j/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 5 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05o/index.m3u8
-#EXTINF:0 group-title="Deportes",ESPN 6 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a05h/index.m3u8
-#EXTINF:0 group-title="Deportes",FOX Sports 3 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01v/index.m3u8
-#EXTINF:0 group-title="Deportes",SKY Sport
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a04g/index.m3u8
-#EXTINF:0 group-title="Deportes",Golf Channel HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01z/index.m3u8
-#EXTINF:0 group-title="Deportes",Tigo Sports HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a04w/index.m3u8
-#EXTINF:0 group-title="Deportes",Claro Sports 2 HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a03h/index.m3u8
-#EXTINF:0 group-title="Deportes",Deportes Latinoamerica
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a03w/index.m3u8
 
 # === ENTRETENIMIENTO (168.232.168.242) ===
-#EXTINF:0 group-title="Entretenimiento",A&E HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00b/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",AMC HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00c/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",AXN HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a00h/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",FOX HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01p/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",FOX Action HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01l/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",FOX Comedy HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01n/index.m3u8
-#EXTINF:0 group-title="Entretenimiento",FOX Life
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://168.232.168.242:4000/play/a01q/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",FX HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a01w/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",FX Peliculas HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a01x/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",TNT HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a033/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",TNT Series HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://168.232.168.242:4000/play/a034/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",Warner HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
