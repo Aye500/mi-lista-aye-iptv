@@ -1093,76 +1093,12 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 
-
-#EXTINF:0 group-title="EspaÃ±a",Canal Sur Andalucia
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-
 #EXTINF:0 group-title="España",Negocios TV
 #EXTGRP:España
 #EXTVLCOPT:network-caching=1000
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:0 group-title="España",El Confidencial
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:0 group-title="EspaÃ±a",Kidz (Atresplayer)
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-#EXTINF:0 group-title="EspaÃ±a",Flooxer
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-#EXTINF:0 group-title="España",Atresplayer Clásicos
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-#EXTINF:0 group-title="EspaÃ±a",Atresplayer Comedia
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-#EXTINF:0 group-title="España",El Hormiguero
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-#EXTINF:0 group-title="España",El Club de la Comedia
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-#EXTINF:0 group-title="España",Equipo de Investigación
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-#EXTINF:0 group-title="España",Fisica o Quimica
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
-#EXTINF:0 group-title="EspaÃ±a",RTVE Crimen
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/6924117.m3u8
-#EXTINF:0 group-title="España",RTVE Época
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/6922467.m3u8
-#EXTINF:0 group-title="España",RTVE Cuentame
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/6909843.m3u8
-#EXTINF:0 group-title="España",RTVE Somos Cine
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/6909845.m3u8
-#EXTINF:0 group-title="EspaÃ±a",RTVE Docs
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/6987938.m3u8
-#EXTINF:0 group-title="EspaÃ±a",HOLA! Play
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+
+
 #EXTINF:0 group-title="España",Canal Parlamento
 #EXTGRP:España
 #EXTVLCOPT:network-caching=1000
