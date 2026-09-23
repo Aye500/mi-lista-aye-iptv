@@ -526,37 +526,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 
-### --- INTERNACIONAL --- ###
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 SD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 SD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13773.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1 HD" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" group-title="COLOMBIA",Canal 1 HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13774.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13775.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol HD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13776.ts
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol FHD" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" group-title="COLOMBIA",Caracol FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional HD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" group-title="COLOMBIA",Caracol Internacional FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13779.ts
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13780.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN HD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13781.ts
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN FHD" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" group-title="COLOMBIA",RCN FHD
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13782.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional
-
-#####
-#####
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
@@ -616,20 +585,11 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712736.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTN Neuquén" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online.png" group-title="Argentina",RTN Neuquén
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712739.ts
 
-
-
-..
-
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="General",Canal 4 Villa Dolores
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-
-
-......
-
-
 
 #EXTINF:0 group-title="Entretenimiento",A&E HD
 #EXTGRP:Entretenimiento
@@ -955,18 +915,6 @@ http://181.78.8.199:8000/play/a0b0/index.m3u8
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
-# === ESPAÃ'A (nuevos) ===
-
-#EXTINF:0 group-title="España",El Toro TV
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-
-#EXTINF:0 group-title="España",Negocios TV
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
 # === EUROPA E INTERNACIONAL ===
 #EXTINF:0 group-title="Europa",DW Español
 #EXTGRP:Europa
@@ -978,15 +926,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:0 group-title="Europa",BFM TV
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:0 group-title="Europa",Tagesschau24 (Alemania)
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 
 # === FUENTES ONLINE (lista de reproducción externas) ===
