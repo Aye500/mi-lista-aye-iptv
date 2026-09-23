@@ -44,6 +44,21 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712718.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
 
+#EXTINF:0 group-title="General",Las Estrellas HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qu
+
+#EXTINF:0 group-title="General",CANAL DE LAS ESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0as/index.m3u8
+
+#EXTINF:0 group-title="General",CANALESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712721.ts
 
@@ -895,10 +910,7 @@ http://181.78.79.131:8000/play/a0ql
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qq
 
-#EXTINF:0 group-title="General",Las Estrellas HD
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qu
+
 
 #EXTINF:0 group-title="Entretenimiento",Vida útil
 #EXTGRP:Entretenimiento
@@ -1102,10 +1114,9 @@ http://181.78.8.199:8000/play/a0d2/index.m3u8
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0di/index.m3u8
-#EXTINF:0 group-title="General",CANAL DE LAS ESTRELLAS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0as/index.m3u8
+
+
+
 #EXTINF:0 group-title="Colombia",CANAL TRO TRANS
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
@@ -1118,10 +1129,11 @@ http://181.78.8.199:8000/play/a091/index.m3u8
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cy/index.m3u8
-#EXTINF:0 group-title="General",CANALESTRELLAS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cx/index.m3u8
+
+
+
+
+
 #EXTINF:0 group-title="General",CANALINSTITUCIONAL NACIONAL SIN TRANS
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
