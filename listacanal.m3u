@@ -661,34 +661,6 @@ http://181.78.79.131:8000/play/a0pn
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sw
 
-
-
-
-#EXTINF:0 group-title="Chile",Canal 13
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n4
-
-
-
-#EXTINF:0 group-title="Colombia",Canal Caracol
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sb
-
-#EXTINF:0 group-title="Colombia",Canal RCN
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sc
-
-
-
-
-#EXTINF:0 group-title="Chile",Capital
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sj
-
 #EXTINF:0 group-title="Peliculas",Cinecanal
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
@@ -913,19 +885,15 @@ http://181.78.79.131:8000/play/a0qq
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pi
 
-
-
 #EXTINF:0 group-title="Entretenimiento",MTV HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0nc
 
-
 #EXTINF:0 group-title="Documentales",Nat Geo HD
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pt
-
 
 #EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
 #EXTGRP:Entretenimiento
@@ -973,10 +941,6 @@ http://181.78.79.131:8000/play/a0na
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q9
 
-
-
-
-
 #EXTINF:0 group-title="Peliculas",Tlnovelas
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
@@ -985,8 +949,6 @@ http://181.78.79.131:8000/play/a0t6
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pe
-
-
 
 #EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
 #EXTGRP:Películas
@@ -1002,8 +964,6 @@ http://181.78.79.131:8000/play/a0sz
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
-
-
 
 
 #EXTINF:0 group-title="Chile",Zoom
@@ -1065,15 +1025,6 @@ http://181.78.8.199:8000/play/a0g9/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 
-#EXTINF:0 group-title="Colombia",NOTICIAS CABLE
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g3/index.m3u8
-
-#EXTINF:0 group-title="Colombia",NOTICIAS CABLE
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
 #EXTGRP:Colombia
@@ -1098,97 +1049,31 @@ http://181.78.8.199:8000/play/a0dj/index.m3u8
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0d3/index.m3u8
-#EXTINF:0 group-title="Chile",CANAL CAPITAL TRANS
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dk/index.m3u8
-#EXTINF:0 group-title="General",CANAL CONGRE NACIONAL SIN TRANS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d2/index.m3u8
-#EXTINF:0 group-title="Colombia",CANAL CONGRESO TRANS
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0di/index.m3u8
 
 
-
-#EXTINF:0 group-title="Colombia",CANAL TRO TRANS
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dh/index.m3u8
-#EXTINF:0 group-title="General",CANAL VENEVICION LOCAL
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a091/index.m3u8
 #EXTINF:0 group-title="General",CANALES NACIONALES
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cy/index.m3u8
 
-
-
-
-
-#EXTINF:0 group-title="General",CANALINSTITUCIONAL NACIONAL SIN TRANS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d0/index.m3u8
 #EXTINF:0 group-title="Colombia",CARACOL
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 
-#EXTINF:0 group-title="Deportes",Disney 2 (EnvivosLatam)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://yce5o.envivosalatam.org/disney2/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=7e611ad84c777f1a659943e1ff6031115a51cd5f-f8-1773306886-1773252886
-#EXTINF:0 group-title="Deportes",Disney 3 (EnvivosLatam)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://wf6kt.envivosalatam.org/disney3/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=0f75bc004e896b18a3fbf21cfb576f48be430410-3d-1773307511-1773253511
-#EXTINF:0 group-title="Deportes",Disney 4 (EnvivosLatam)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://qbk4f.envivosalatam.org/disney4/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=fa5d584815d7279798e3c7ae64501225b477ae5e-d4-1773307613-1773253613
-#EXTINF:0 group-title="Deportes",TyC Sports (Opcion 2)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://tk0hz.envivosalatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=17a7c31f5eaa26fb0a78543a6692e6917b39dde4-c2-1773308253-1773254253
-#EXTINF:0 group-title="Deportes",TNT Sports (Opcion 1)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://smjt9q.envivosalatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=14c985e51f0f63e2b946ba729a7f21571604aee6-38-1773308261-1773254261
-#EXTINF:0 group-title="Deportes",TUDN USA (Opción 1)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://yce5o.envivosalatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=54d68f4f078ac86e5aeb675965cb0e520950292e-80-1773308286-1773254286
-#EXTINF:0 group-title="Deportes",Fox Sports (Opcion 1)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://yce5o.envivosalatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=f9a7fbc84528d2ff1bbc1af9378a01ccf7502439-6e-1773308295-1773254295
-#EXTINF:0 group-title="Deportes",DSports (Opción 1)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://iaw5b.envivosalatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=e3881f524d77731ed02f75541a402153e85aecce-cd-1773308312-1773254312
-#EXTINF:0 group-title="Deportes",ESPN Premium (Opcion 1)
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://mze7u.envivosalatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=9a52c9ceae428495d3af1aaa4c348b612ba47d13-8c-1773308337-1773254337
+
+
+
+
+
 #EXTINF:0 group-title="Deportes",Televida AR
 #EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:0 group-title="Deportes",Tubi Sports
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
 
 # === ESPAÃ'A (nuevos) ===
-#EXTINF:0 group-title="EspaÃ±a",TRECE
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
 #EXTINF:0 group-title="España",El Toro TV
 #EXTGRP:España
 #EXTVLCOPT:network-caching=1000
