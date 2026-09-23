@@ -706,18 +706,6 @@ http://181.78.79.131:8000/play/a0n8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0p7
 
-#EXTINF:-1 group-title="-",Disney Channel
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0d1/index.m3u8
-
-#EXTINF:-1 group-title="-",Disney HD
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0aq/index.m3u8
-
-#EXTINF:-1 group-title="-",Disney Jr
-#EXTGRP:-
-http://190.60.52.28:5001/play/a0c3/index.m3u8
-
 #EXTINF:-1 group-title="-",Distrito Comedia
 #EXTGRP:-
 http://190.60.52.28:5001/play/a0ba/index.m3u8
