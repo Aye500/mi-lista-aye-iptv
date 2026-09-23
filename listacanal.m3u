@@ -1079,68 +1079,27 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-
-
-
-#EXTINF:0 group-title="EspaÃ±a",ETB 1
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
-#EXTINF:0 group-title="EspaÃ±a",ETB 2
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-
 #EXTINF:0 group-title="España",Negocios TV
 #EXTGRP:España
 #EXTVLCOPT:network-caching=1000
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-
 #EXTINF:0 group-title="España",Canal Parlamento
 #EXTGRP:España
 #EXTVLCOPT:network-caching=1000
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:0 grupo-title="España",TVE Internacional Europa
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:0 group-title="España",El País TV
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 # === EUROPA E INTERNACIONAL ===
 #EXTINF:0 group-title="Europa",DW Español
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:0 group-title="Europa",Das Erste (ARD)
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:0 group-title="Europa",Sky News
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
-#EXTINF:0 group-title="Europa",RTP 1 Portugal
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:0 group-title="Europa",RTP 2 Portugal
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:0 group-title="Europa",RTP Internacional
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpint.smil/playlist.m3u8
-#EXTINF:0 group-title="Europa",TV5Monde Europe
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 #EXTINF:0 group-title="Europa",Bloomberg Europe
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
@@ -1149,108 +1108,11 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:0 grupo-título="Europa",La7 Italia
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:0 group-title="Europa",Sport Italia
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
 #EXTINF:0 group-title="Europa",Tagesschau24 (Alemania)
 #EXTGRP:Europa
 #EXTVLCOPT:network-caching=1000
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0 grupo-title="Europa",CNN Internacional
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:0 group-title="Europa",Euronews Español
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:0 group-title="Europa",France 24 Español
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:0 group-title="Europa",France 24 Frances
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:0 group-title="Europa",France 24 Inglés
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0 group-title="Europa",EITB Euskera
-#EXTGRP:Europa
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-
-# === PELICULAS & SERIES (Xtrema/cnarlatam) ===
-#EXTINF:0 group-title="Peliculas",Xtrema Acción
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Asia
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:0 group-title="Películas",Xtrema Drama
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Europa
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Hindi
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Latina
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Suspenso
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:0 group-title="Películas",Xtrema Terror
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Comedia
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Familia
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:0 group-title="Películas",Xtrema Anime
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Serie Xtrema
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:0 group-title="Películas",Xtrema Retro Series
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Xtrema Retro Infantil
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Cine.Ar
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:0 group-title="Peliculas",Zonda TV
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 # === INFANTILES ===
 #EXTINF:0 group-title="Infantiles",Cartoon Network Latino
