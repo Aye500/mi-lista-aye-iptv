@@ -428,10 +428,6 @@ https://srs.unsj.edu.ar/live/xama/xama.flv
 # --- DIBUJOS ---
 
 
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 
@@ -440,6 +436,21 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD",Disney Jr. Latin America North HD (1080p)
 http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:0 group-title="Entretenimiento",Tooncast
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pe
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
 
 
 
@@ -577,10 +588,6 @@ http://181.78.79.131:8000/play/a0p8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0n8
 
-#EXTINF:0 group-title="Entretenimiento",Disney Jr.
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0p7
 
 #EXTINF:-1 group-title="-",Distrito Comedia
 #EXTGRP:-
@@ -590,16 +597,10 @@ http://190.60.52.28:5001/play/a0ba/index.m3u8
 #EXTGRP:-
 http://190.60.52.28:5001/play/a0d5/index.m3u8
 
-
-
-
-
 #EXTINF:0 group-title="Religión",Enlace
 #EXTGRP:Religión
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pj
-
-
 
 #EXTINF:0 group-title="Películas",HBO Xtreme HD
 #EXTGRP:Películas
@@ -646,10 +647,7 @@ http://181.78.79.131:8000/play/a0nc
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pt
 
-#EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qm
+
 
 #EXTINF:0 group-title="Latinoamérica",Panamericana TV
 #EXTGRP:Latinoamérica
@@ -693,10 +691,7 @@ http://181.78.79.131:8000/play/a0na
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t6
 
-#EXTINF:0 group-title="Entretenimiento",Tooncast
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pe
+
 
 #EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
 #EXTGRP:Películas
