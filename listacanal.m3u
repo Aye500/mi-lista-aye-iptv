@@ -49,15 +49,6 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qu
 
-#EXTINF:0 group-title="General",CANAL DE LAS ESTRELLAS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0as/index.m3u8
-
-#EXTINF:0 group-title="General",CANALESTRELLAS
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712721.ts
