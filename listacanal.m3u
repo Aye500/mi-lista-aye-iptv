@@ -4,9 +4,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="Solidaria TV" tvg-logo="https://radiosolidaria.vercel.app/_next/image?url=%2Fimages%2Flogo%2Ftv%2Flogo-tv-notext.webp&w=384&q=75" group-title="General",Solidaria TV
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="General",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -44,8 +41,24 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
 
+
+
+
+
 ######
 
+# --- RELIGIONES ---
+
+#EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-name="Solidaria TV" tvg-logo="https://radiosolidaria.vercel.app/_next/image?url=%2Fimages%2Flogo%2Ftv%2Flogo-tv-notext.webp&w=384&q=75" group-title="General",Solidaria TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD",TV Maná Argentina (576p)
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
+
+######
+
+# --- NOVELAS ---
 
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
 
@@ -53,6 +66,31 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qu
+
+#EXTINF:0 group-title="Peliculas",Pasiones HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qh
+
+#EXTINF:0 group-title="Peliculas",Tlnovelas
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t6
+
+#EXTINF:0 group-title="Películas",TNT Novelas HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0na
+
+#EXTINF:0 group-title="Colombia",RCN Novelas
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sk
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
 
@@ -399,8 +437,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="TVCanal72.ar@SD",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD",TV Maná Argentina (576p) [Not 24/7]
-https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
@@ -630,15 +667,7 @@ http://181.78.79.131:8000/play/a0pt
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0so
 
-#EXTINF:0 group-title="Peliculas",Pasiones HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qh
 
-#EXTINF:0 group-title="Colombia",RCN Novelas
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sk
 
 #EXTINF:0 group-title="Películas",Space HD
 #EXTGRP:Películas
@@ -655,17 +684,7 @@ http://181.78.79.131:8000/play/a0qz
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t3
 
-#EXTINF:0 group-title="Películas",TNT Novelas HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0na
 
-
-
-#EXTINF:0 group-title="Peliculas",Tlnovelas
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0t6
 
 
 
