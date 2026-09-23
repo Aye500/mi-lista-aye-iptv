@@ -968,26 +968,7 @@ http://181.78.79.131:8000/play/a0q9
 
 
 
-#EXTINF:0 group-title="EspaÃ±a",TVE
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pl
-#EXTINF:0 group-title="Latinoamérica",Teleamazonas
-#EXTGRP:Latinoamérica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0ow
-#EXTINF:0 group-title="Latinoamérica",Telefuturo
-#EXTGRP:Latinoamérica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sv
-#EXTINF:0 group-title="General",TelefÃ©
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pg
-#EXTINF:0 group-title="Colombia",Televicentro
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0oy
+
 #EXTINF:0 group-title="Peliculas",Tlnovelas
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
@@ -996,142 +977,111 @@ http://181.78.79.131:8000/play/a0t6
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pe
-#EXTINF:0 group-title="EspaÃ±a",Trece
-#EXTGRP:España
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sq
-#EXTINF:0 group-title="Deportes",TyC
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0t1
+
+
+
 #EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mw
-#EXTINF:0 group-title="Chile",ViaX
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0t4
+
 #EXTINF:0 group-title="Películas",Warner
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sz
+
 #EXTINF:0 group-title="Películas",Warner TV HD
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pz
-#EXTINF:0 group-title="Deportes",Win Sports+ HD
-#EXTGRP:Deportes
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n1
-#EXTINF:0 group-title="Latinoamérica",Zona Latina
-#EXTGRP:Latinoamérica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0su
+
+
+
+
 #EXTINF:0 group-title="Chile",Zoom
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/BBC_News_2022.svg" group-title="Noticias",BBC News
-#EXTGRP:Noticias
-https://news.files.bbci.co.uk/include/articles/public/tv-news-app/hls/bbc_world_news.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Al_Jazeera_English_logo.svg" group-title="Noticias",Al Jazeera English
-#EXTGRP:Noticias
-https://live-hls-web-aje.akamaized.net/m3u8/out/v1/f247f6eb2bda49dbbb03910b80459892/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/France_24_logo.svg" group-title="Noticias",Francia 24 Inglés
-#EXTGRP:Noticias
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Documentales",NASA TV
-#EXTGRP:Documentales
-https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_de_la_Televisi%C3%B3n_P%C3%BAblica.svg" group-title="España",TVE La 1
-#EXTGRP:España
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TVE_2_2008.svg" group-title="EspaÃ±a",TVE La 2
-#EXTGRP:España
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/24_horas_tve_logo.svg" group-title="España",TVE 24h
-#EXTGRP:España
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Tubi_logo_%282024%29.svg" group-title="Deportes",Tubi Sports
-#EXTGRP:Deportes
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Chilevisi%C3%B3n_2018.svg" group-title="Chile",Chilevision
-#EXTGRP:Chile
-https://vmf.edge-online.chv.cl/chv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVN_logo_2020.svg" group-title="Chile",TVN
-#EXTGRP:Chile
-https://rudo.video/live/tvn
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_13_logo_2018.svg" group-title="Chile",Canal 13
-#EXTGRP:Chile
-https://rudo.video/live/c13
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Mega_2015.png" group-title="Chile",Mega
-#EXTGRP:Chile
-https://rudo.video/live/mega
+
+
+
+
+
 #EXTINF:11 group-title="Entretenimiento",AE
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0al/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",AE
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ct/index.m3u8
+
 #EXTINF:0 group-title="Documentales",ANIMAL PLANET
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0by/index.m3u8
+
 #EXTINF:0 group-title="General",ANTV
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0fo/index.m3u8
+
 #EXTINF:0 group-title="Peliculas",AXN
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0am/index.m3u8
+
 #EXTINF:0 group-title="Peliculas",AXN
 #EXTGRP:Películas
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cu/index.m3u8
+
 #EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06w/index.m3u8
+
 #EXTINF:0 group-title="Entretenimiento",BABYTV ENVIADO
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a08d/index.m3u8
+
 #EXTINF:0 group-title="Música",BANDAMAX
 #EXTGRP:Música
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0g9/index.m3u8
+
 #EXTINF:0 título-grupo="General",BITME
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ga/index.m3u8
+
 #EXTINF:0 group-title="Colombia",NOTICIAS CABLE
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0g3/index.m3u8
+
 #EXTINF:0 group-title="Colombia",NOTICIAS CABLE
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0e8/index.m3u8
+
 #EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
 #EXTGRP:Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cz/index.m3u8
-#EXTINF:0 group-title="Colombia",CANAL 1 TRANS
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0da/index.m3u8
+
 #EXTINF:0 group-title="General",CANAL 12 VALLEDUPAR
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0e4/index.m3u8
+
 #EXTINF:0 group-title="Chile",CANAL 13 NACIONAL SIN TRANS
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0d4/index.m3u8
+
 #EXTINF:0 group-title="Chile",CANAL 13 TRANS
 #EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
