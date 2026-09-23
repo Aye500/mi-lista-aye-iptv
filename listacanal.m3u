@@ -92,8 +92,23 @@ http://181.78.79.131:8000/play/a0sk
 
 # --- PELICULAS ---
 
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mu
+
+#EXTINF:0 group-title="Películas",HBO Xtreme HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qy
+
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel
 http://138.121.15.230:9002/SONY/index.m3u8
+
+#EXTINF:0 group-title="Películas",Space HD
+#EXTGRP:Películas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q2
 
 #EXTINF:0 group-title="Películas",UNIVERSAL CHANNEL HD
 #EXTGRP:Películas
@@ -117,7 +132,46 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #####
 
+# --- DOCUMENTAL ---
 
+#EXTINF:0 group-title="Documentales",ANIMAL PLANET
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
+
+#EXTINF:0 group-title="General", Discovery ID
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sl
+
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pb
+
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
+
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n8
+
+#EXTINF:0 group-title="Documentales",History Channel
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0st
+
+
+
+#####
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
@@ -161,12 +215,6 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD",Cumbia Mix (720p)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-
-
-
-
-
-
 
 
 
@@ -486,11 +534,6 @@ https://srs.unsj.edu.ar/live/xama/xama.flv
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
@@ -569,20 +612,14 @@ http://181.78.79.131:8000/play/a0q0
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pk
 
-#EXTINF:0 group-title="Documentales",Animal Planet
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0po
+
 
 #EXTINF:0 group-title="Religión",BETHEL TV
 #EXTGRP:Religión
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pn
 
-#EXTINF:0 group-title="Entretenimiento",Bebé Primero
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sw
+
 
 #EXTINF:0 group-title="Peliculas",Cinecanal
 #EXTGRP:Películas
@@ -594,10 +631,7 @@ http://181.78.79.131:8000/play/a0pp
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0si
 
-#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0mu
+
 
 #EXTINF:0 group-title="Infantiles",DHE HD
 #EXTGRP:Infantiles
@@ -609,20 +643,7 @@ http://181.78.79.131:8000/play/a0qv
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qb
 
-#EXTINF:0 group-title="Documentales",Discovery Science
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pb
 
-#EXTINF:0 group-title="Documentales",Discovery Turbo
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0p8
-
-#EXTINF:0 group-title="Documentales",Discovery World HD
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n8
 
 
 #EXTINF:-1 group-title="-",Distrito Comedia
@@ -638,10 +659,7 @@ http://190.60.52.28:5001/play/a0d5/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pj
 
-#EXTINF:0 group-title="Películas",HBO Xtreme HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qy
+
 
 #EXTINF:0 group-title="Documentales",HGTV
 #EXTGRP:Documentales
@@ -653,15 +671,7 @@ http://181.78.79.131:8000/play/a0pf
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pw
 
-#EXTINF:0 group-title="Documentales",History Channel
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0st
 
-#EXTINF:0 group-title="General",ID
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sl
 
 #EXTINF:0 group-title="Chile",La Red
 #EXTGRP:Chile
@@ -692,10 +702,7 @@ http://181.78.79.131:8000/play/a0so
 
 
 
-#EXTINF:0 group-title="Películas",Space HD
-#EXTGRP:Películas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0q2
+
 
 #EXTINF:0 group-title="Deportes",Sun Channel HD
 #EXTGRP:Deportes
@@ -723,10 +730,7 @@ http://181.78.79.131:8000/play/a0sg
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ct/index.m3u8
 
-#EXTINF:0 group-title="Documentales",ANIMAL PLANET
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0by/index.m3u8
+
 
 #EXTINF:0 group-title="General",ANTV
 #EXTGRP:General
@@ -748,20 +752,12 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06w/index.m3u8
 
-#EXTINF:0 group-title="Entretenimiento",BABYTV ENVIADO
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08d/index.m3u8
+
 
 #EXTINF:0 group-title="Música",BANDAMAX
 #EXTGRP:Música
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0g9/index.m3u8
-
-#EXTINF:0 título-grupo="General",BITME
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
 #EXTGRP:Colombia
