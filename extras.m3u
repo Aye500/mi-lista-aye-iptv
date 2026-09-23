@@ -33,7 +33,15 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
+#EXTINF:0 group-title="General",CANAL DE LAS ESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0as/index.m3u8
 
+#EXTINF:0 group-title="General",CANALESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-id="CarasTV.ar@SD",Caras TV
 http://190.61.90.17:40000/play/a043/index.m3u8
@@ -43,8 +51,6 @@ https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="TeleMax" tvg-logo="https://i.imgur.com/gfX0hdB.png" group-title="Variedades",TeleMax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-
 
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -60,9 +66,6 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal7Salta.ar@SD",Canal 7 Salta (720p)
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
-
-
-
 
 ######
 
@@ -80,6 +83,5 @@ http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712712.ts
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712714.ts
 #EXTINF:-1 tvg-id="" tvg-name="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN Noticias
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712717.ts
-
 
 ###
