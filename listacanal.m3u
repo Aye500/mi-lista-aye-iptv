@@ -12,63 +12,57 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712719.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina",El Nueve
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712709.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina",Telefe
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712715.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina",El Trece
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712711.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina",Canal 26
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712724.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina",A24
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712702.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="C5N FHD| AR" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina",C5N
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712705.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Crónica TV  HD| AR" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina",Crónica TV
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712707.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina",La Nación +
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712713.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina",TN NOTICIAS
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712718.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712741.ts
+
 
 #EXTINF:0 group-title="General",Las Estrellas HD
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0qu
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina",ARGENTINISIMA
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712721.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" group-title="Argentina",CIUDAD MAGAZINE
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712732.ts
+
 
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" tvg-chno="27.2" tvg-country="AR" group-title="Argentina",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Argentina",Telemax
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712740.ts
+
 
 #EXTINF:-1 tvg-id="UnifeTV.ar@SD",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim Latin America
-http://168.194.171.33:8000/play/a09l/index.m3u8
-
-###
 
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim Latin America
 http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
@@ -94,9 +88,6 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Undefined",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal22.ar@SD" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Undefined",Canal 22 (720p)
-https://
-
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD",Cumbia Mix (720p)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 
@@ -107,12 +98,18 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
+
+
+
+
+
+
 # --- PROVINCIALES ---
 
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina",5TV
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712700.ts
+
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias Neuquen
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
@@ -130,13 +127,13 @@ https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina",Canal 4 Posadas
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712726.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQa0k2OE_G_hWAH7Nx7qORMLV0S2YGQ7p85jrDfC7nNGUJ50INomppJw&s=10" group-title="Argentina",Canal 7 Jujuy
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712727.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" group-title="Argentina",Canal 9 Litoral
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712728.ts
+
 
 #EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-logo="https://i.imgur.com/TOlncyp.png" group-title="General",Canal 2 Gualeguay
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
@@ -152,9 +149,6 @@ https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Undefined",Canal 3 La Pampa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina",Canal 13 La Rioja
-http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/712723.ts
 
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar@" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
@@ -178,7 +172,7 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="General",Canal 4 Teleaire
-https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",Canal 5 Del Pueblo
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
@@ -210,14 +204,14 @@ https://canal8mdq.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://files.catbox.moe/f7jbdo.png" group-title="General",Canal 8 San Juan
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-logo="https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg" group-title="Entertainment",Canal 9 Link
-https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Undefined",Canal 9 Litoral
-https://
+
 
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-logo="https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg" group-title="Entertainment",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Undefined",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
@@ -226,7 +220,7 @@ https://nd106.republicaservers.com:4433/c7827.mp4
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 #EXTINF:-1 tvg-id="Canal13SanLuis.ar" tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="Undefined",Canal 13 San Luis
-https://
+
 
 #EXTINF:-1 tvg-id="Canal50Morteros.ar@SD" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="Undefined",Canal 50 Morteros
 https://online.coopmorteros.coop/canal50/vivo.m3u8
@@ -392,6 +386,11 @@ https://canal11saltatv.unpocodeawita.workers.dev/
 
 #EXTINF:-1 tvg-id="TelefeTucuman.ar@SD",Telefe Tucuman (1080p)
 https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Telemax.ar@SD",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
