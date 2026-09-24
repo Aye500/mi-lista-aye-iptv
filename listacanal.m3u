@@ -609,44 +609,14 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 # --- PROVINCIALES ---
 
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias Neuquen
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-id="ABTVBariloche.ar" tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="General",ABTV Bariloche
-https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BragadoTV.ar@SD",Bragado TV
-https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 
-#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-logo="https://i.imgur.com/TOlncyp.png" group-title="General",Canal 2 Gualeguay
-https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal2MardelPlata.ar" tvg-logo="https://i.imgur.com/wlKFPBW.jpeg" group-title="General",Canal 2 Mar del Plata
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-
-#EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Undefined",Canal 3 Formosa
-https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar@" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="General",Canal 3 Tacural
-http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Undefined",Canal 4 Posadas
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="Undefined",Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal12Web.ar" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Undefined",Canal 12 Sin Hilo Chubut
-https://nd106.republicaservers.com:4433/c7827.mp4
 
 #EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religious",Canal Luz 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
