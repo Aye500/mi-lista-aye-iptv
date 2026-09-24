@@ -46,8 +46,6 @@ https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 
 # --- NOVELAS ---
 
-#EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver
-
 #EXTINF:0 group-title="General",Las Estrellas HD
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
