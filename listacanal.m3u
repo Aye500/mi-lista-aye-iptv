@@ -947,9 +947,6 @@ http://181.224.200.5:2277/play/a02b/index.m3u8
 
 http://181.224.200.5:2277/play/a00p/index.m3u8
 
-#EXTINF:-1,ID HD
-
-http://181.224.200.5:2277/play/a00m/index.m3u8
 
 #EXTINF:-1,LOVE NATURE
 
@@ -975,17 +972,9 @@ http://181.224.200.5:2277/play/kkio/index.m3u8
 
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
-#EXTINF:-1,Pasiones HD
-
-http://181.224.200.5:2277/play/4324/index.m3u8
-
 #EXTINF:-1,RPP
 
 http://181.224.200.5:2277/play/a04b/index.m3u8
-
-#EXTINF:-1,Sony HD
-
-http://181.224.200.5:2277/play/a01f/index.m3u8
 
 #EXTINF:-1,Star Channel HD
 
