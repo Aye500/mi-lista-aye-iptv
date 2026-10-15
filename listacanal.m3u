@@ -907,29 +907,9 @@ http://181.224.200.5:2277/play/a01h/index.m3u8
 
 http://181.224.200.5:2277/play/a00r/index.m3u8
 
-#EXTINF:-1,Cinecanal HD
-
-http://181.224.200.5:2277/play/a013/index.m3u8
-
-#EXTINF:-1,De Pelicula
-
-http://181.224.200.5:2277/play/a0d1/index.m3u8
-
-#EXTINF:-1,Discovery Channel HD
-
-http://181.224.200.5:2277/play/a00t/index.m3u8
-
 #EXTINF:-1,Discovery Kids HD
 
 http://181.224.200.5:2277/play/a00o/index.m3u8
-
-#EXTINF:-1,Discovery Theater HD
-
-http://181.224.200.5:2277/play/a0bj/index.m3u8
-
-#EXTINF:-1,Discovery World HD
-
-http://181.224.200.5:2277/play/a0ap/index.m3u8
 
 #EXTINF:-1,Disney HD
 
@@ -942,10 +922,6 @@ http://181.224.200.5:2277/play/a0dm/index.m3u8
 #EXTINF:-1,El Gourmet HD
 
 http://181.224.200.5:2277/play/a00n/index.m3u8
-
-#EXTINF:-1,FX HD
-
-http://181.224.200.5:2277/play/a011/index.m3u8
 
 #EXTINF:-1,Global
 
