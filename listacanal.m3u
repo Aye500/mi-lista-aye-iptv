@@ -886,7 +886,8 @@ http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD",Pakapaka (1080p)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" group-title="",DiscoveyKids
+http://192.241.232.39/loadbalance/discoverykids/chunks.m3u8?pxAuth=GJEYG5OWvqrCInvcj7b2n5rVq3bbe2f1
 
 
 
